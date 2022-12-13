@@ -2,7 +2,7 @@
 
 ## Bienvenido!👋
 
-Aqui puedes ver el resultado final -> [https://anell-dev.github.io/Tarjeta-de-rating-interactiva/](https://anell-dev.github.io/Tarjeta-de-rating-interactiva/)
+Aqui puedes ver el resultado final -> [https://anell-dev.github.io/Calculadora-de-propinas/](https://anell-dev.github.io/Calculadora-de-propinas/)
 
 ### El reto
 
@@ -18,8 +18,8 @@ Los usuarios deben poder:
 
 ### Links
 
-- Solution URL: [https://github.com/Anell-dev/Tarjeta-de-rating-interactiva](https://github.com/Anell-dev/Tarjeta-de-rating-interactiva)
-- Live Site URL: [https://anell-dev.github.io/Tarjeta-de-rating-interactiva/](https://anell-dev.github.io/Tarjeta-de-rating-interactiva/)
+- Solution URL: [https://github.com/Anell-dev/Calculadora-de-propinas](https://github.com/Anell-dev/Calculadora-de-propinas)
+- Live Site URL: [https://anell-dev.github.io/Calculadora-de-propinas/](https://anell-dev.github.io/Calculadora-de-propinas/)
 
 ### Construido con
 
